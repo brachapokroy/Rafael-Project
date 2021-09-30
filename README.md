@@ -1,4 +1,4 @@
-# RfaelProject
+# Rfael-Project
 This project gets data of all kinds of rockets and can  identify each type by training a model  of machine learning by its features.
 It's an introduction to machine learning.
 We have experienced all types of models for training and watched which one gave us the best results using a confusion matrix.
